@@ -4,7 +4,7 @@
 
 ![Leaderboard](classifica.png)
 
-LLM-centric fraud detection system built for the [Reply AI Challenge](https://challenges.reply.com). The pipeline analyzes financial transactions across multiple data sources (transactions, SMS, emails, phone call recordings, GPS locations, user profiles) and uses a Large Language Model as the core decision-making engine to identify fraudulent transactions.
+LLM-centric fraud detection system built for the [Reply AI Challenge](https://challenges.reply.com/challenges/ai-agent/home/). The pipeline analyzes financial transactions across multiple data sources (transactions, SMS, emails, phone call recordings, GPS locations, user profiles) and uses a Large Language Model as the core decision-making engine to identify fraudulent transactions.
 
 ## Architecture Overview
 
