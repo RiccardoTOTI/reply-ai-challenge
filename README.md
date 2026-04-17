@@ -1,5 +1,9 @@
 # Reply AI Challenge — Fraud Detection Pipeline
 
+**Score: 744,768.53 pts — 7th place out of 1,971 teams**
+
+![Leaderboard](classifica.png)
+
 LLM-centric fraud detection system built for the [Reply AI Challenge](https://challenges.reply.com). The pipeline analyzes financial transactions across multiple data sources (transactions, SMS, emails, phone call recordings, GPS locations, user profiles) and uses a Large Language Model as the core decision-making engine to identify fraudulent transactions.
 
 ## Architecture Overview
